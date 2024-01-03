@@ -1,5 +1,5 @@
 # Misaka Updater
-A fork of uYouPlus Updater.
+A fork of [uYouPlus Updater](https://github.com/Dr-Sauce/uyouplusupdater).
 
 Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 

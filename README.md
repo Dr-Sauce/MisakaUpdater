@@ -1,4 +1,4 @@
-# Misaka-Updater
+# misaka-Updater
 A fork of uYouPlus Updater.
 
 Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).

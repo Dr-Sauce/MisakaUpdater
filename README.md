@@ -1,7 +1,7 @@
 # Misaka Updater
-A fork of [uYouPlus Updater](https://github.com/Dr-Sauce/uyouplusupdater).
+A fork of [uYouPlus Updater](https://github.com/Dr-Sauce/uyouplusupdater). Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
 
-Requires [Scriptable](https://apps.apple.com/app/scriptable/id1405459188).
+Designed to work on iOS 15. (But also works on other versions)
 
 ![70F016B0-C232-47C5-8DEA-AF79307F4EE0](https://github.com/Dr-Sauce/Misaka-Updater/assets/82555878/1a1f338a-09e1-41f9-8ccf-c364c74d9a02)
 
